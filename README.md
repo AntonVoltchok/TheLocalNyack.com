@@ -25,5 +25,8 @@ Had to get the site up ASAP so went with the basics first, will be adding more i
 + Hover effects for images
 + Start setting up SEO / Google Analytics
 
+---
+
+
 
  
