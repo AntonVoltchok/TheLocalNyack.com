@@ -4,11 +4,11 @@
 ### Tools 
 + Grunt / Grunt-SASS
 + Node-SASS / Libsass
-+ Bower
++ Bower 
 + Edge (although you can use regular CSS transforms w/ an Iframe for "masking")
 
-+ Site is split up into a few categories:
-+ News - iFrame TV - Drinks - Food - Location
+> Site is split up into a few categories:
+> News - iFrame TV - Drinks - Food - Location
 
 ### SASS/SCSS breakdown
 + **[app.scss]:** - used to import all partials
