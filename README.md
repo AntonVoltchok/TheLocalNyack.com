@@ -1,8 +1,7 @@
-## The Local - Site Guide
-***
+# The Local - Site Guide
+---
 
 ### Tools 
----
 + Grunt / Grunt-SASS
 + Node-SASS / Libsass
 + Bower
@@ -12,7 +11,6 @@
 + News - iFrame TV - Drinks - Food - Location
 
 ### SASS/SCSS breakdown
----
 + **[app.scss]:** - used to import all partials
 + **[_reset.scss]:** - resets styles and sets box sizing
 + **[_variables.scss]:** - defines variables, (does not directly produce css)
@@ -22,7 +20,6 @@
 + **[_ components]:** - on larger sites this would typically be split up into various partials but being a small one page site I decided to keep it all here. With code folding it's easy enough to get to the right element.
 
 ### What's Next
----
 Had to get the site up ASAP so went with the basics first, will be adding more interactive elements as time allows:
 + Turn location into animated SVG
 + Hover effects for images
