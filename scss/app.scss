@@ -1,6 +1,14 @@
-@import "settings";
-@import "foundation";
-@import "testing";
+// @import "foundation";
+// @import "settings";
+
+@import "reset";
+@import "utility";
+@import "variables";
+@import "mixins";
+@import "type";
+@import "layout";
+@import "components";
+
 // Or selectively include components
 // @import
 //   "foundation/components/accordion",
